@@ -8,3 +8,7 @@ Of course, you can use @vue-cli, but it seemed to me that for publishing a small
 // Just clone this repo and have fun
 git clone https://github.com/EneroPl/vue-publisher.git
 ```
+
+Fueature plans:
+- Add Babel traspiler;
+- Include build command for usind dist/ dir for production usage;
