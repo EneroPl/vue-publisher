@@ -4,11 +4,20 @@ This boilerplate provides a pure Vue template with minimal configuration setting
 
 Of course, you can use @vue-cli, but it seemed to me that for publishing a small component, there are a lot of packages that are pulled up by this template.
 
+## Install & Usage
+
 ```sh
 // Just clone this repo and have fun
 git clone https://github.com/EneroPl/vue-publisher.git
 ```
 
-Fueature plans:
+## Available features
+This is a little list of available features what you can use with boilerplate:
+
+- Vue
+- Sass/Less
+
+## Fueature plans
 - Add Babel traspiler;
 - Include build command for using dist/ dir for production usage;
+- Include TypeScript support.
