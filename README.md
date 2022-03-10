@@ -11,4 +11,4 @@ git clone https://github.com/EneroPl/vue-publisher.git
 
 Fueature plans:
 - Add Babel traspiler;
-- Include build command for usind dist/ dir for production usage;
+- Include build command for using dist/ dir for production usage;
