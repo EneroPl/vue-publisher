@@ -2,7 +2,7 @@
 
 This boilerplate provides a pure Vue template with minimal configuration settings for developing components and more with the idea that you will publish your masterpiece on npm, yarn or other platforms.
 
-Of course, you can use @vue-cli, but it seemed to me that for publishing a small component, there are a lot of packages that are pulled up by this template.
+Of course, you can use `@vue-cli`, but it seemed to me that for publishing a small component, there are a lot of packages that are pulled up by this template.
 
 ## Install & Usage
 
@@ -16,8 +16,8 @@ This is a little list of available features what you can use with boilerplate:
 
 - Vue
 - Sass/Less
+- Babel traspiler
+- Include build command for using `dist/` dir for production usage
 
 ## Fueature plans
-- Add Babel traspiler;
-- Include build command for using dist/ dir for production usage;
-- Include TypeScript support.
+- Include `TypeScript` support.

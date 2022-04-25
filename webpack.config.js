@@ -3,11 +3,16 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
 	mode: "development",
-	entry: "./src/index.js",
+	entry: "./serve/index.js",
 	output: {
 		filename: "index.js",
 		library: "VuePartition",
-    libraryTarget: "umd"
+    	libraryTarget: "umd"
+	},
+	resolve: {
+		alias: {
+			'~': './src'
+		}
 	},
 	module: {
 		rules: [
